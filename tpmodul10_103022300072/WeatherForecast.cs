@@ -11,3 +11,5 @@ namespace tpmodul10_103022300072
         public string? Summary { get; set; }
     }
 }
+
+//
